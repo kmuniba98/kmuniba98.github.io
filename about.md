@@ -3,4 +3,4 @@ layout: default
 title: Muniba Khan
 ---
 
-I am a student at Rollins College.
+My name is Muniba Khan and I am a freshman pursuing a double-major in computer science and biochemistry at Rollins College.
